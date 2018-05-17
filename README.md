@@ -29,3 +29,6 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 # vueTest
   # 效果图
   
+![11](https://github.com/sunnywindia/vueTest/blob/master/1.jpg)
+![ww](https://github.com/sunnywindia/vueTest/blob/master/2.jpg)
+![we](https://github.com/sunnywindia/vueTest/blob/master/3.jpg)
