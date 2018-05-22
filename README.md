@@ -26,9 +26,13 @@ npm test
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
- ## 技术栈
+ #### 技术栈
  1.vue-rounter
  2.vue 组件
+ 
+ #### 环境
+  1. node v8.11.2
+ 2. npm 5.6.0
  
  
 ##### 效果图
