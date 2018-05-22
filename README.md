@@ -25,8 +25,10 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-# vueshopping
-# vueTest
+
+ ## 技术栈
+ 1.vue-rounter
+ 2.vue 组件
   ## 效果图
   
 ![11](https://github.com/sunnywindia/vueTest/blob/master/1.jpg)
